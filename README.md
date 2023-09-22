@@ -3,6 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/TicTacToe)
 ![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/TicTacToe)
 
+## Portfolio 2 Project
+
 ### Purpose
 
 Simple Game of Tic-Tac-Toe  
@@ -33,7 +35,7 @@ Simple Game of Tic-Tac-Toe
 #### Site
 
 ## **_Link URL to deployed website on GitHub_**
-[GitHub-Project](https://maxamed-ncx.github.io/TicTacToe/)
+[Deployed-Project](https://maxamed-ncx.github.io/TicTacToe/)
 
 
 ## **_Link URL to GitHub Repository_**
