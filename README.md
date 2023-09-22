@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/TicTacToe/)
-![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/TicTacToe/)
+![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/TicTacToe)
+![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/TicTacToe)
 
 ### Purpose
 
