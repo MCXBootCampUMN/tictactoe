@@ -43,5 +43,6 @@ Simple Game of Tic-Tac-Toe
 #### images
 
 <img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/Maxamed-NCX/TicTacToe/main/Imgs/StartGame.png">
+<img width="400" alt=" 1st Image" src="https://raw.githubusercontent.com/Maxamed-NCX/TicTacToe/main/Imgs/winner.png">
 
 #### Thank you for checking out this Repo
